@@ -2,7 +2,7 @@
   Completed the following:
   Advanced version
 
-  Written by: <Ezra Chamba 10175465>
+  Written by: <Ezra Chamba>
   Date: <28/04/2019>
 */
 
